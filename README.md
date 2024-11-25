@@ -17,3 +17,15 @@ Welcome to the YonseiDatabase-SJ-DH GitHub organization! This team was formed as
 Our team is dedicated to gaining hands-on experience in database management and analysis. By working through these projects, we aim to deepen our understanding of SQL, enhance our problem-solving skills, and explore the practical applications of database systems.
 
 Feel free to explore our repositories, and don't hesitate to reach out with any questions or suggestions!
+
+## member
+[sj hwang](https://github.com/justinbrianhwang)
+
+[deahan jeon](https://github.com/ZIER2001)
+
+
+
+
+
+
+
